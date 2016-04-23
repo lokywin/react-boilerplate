@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lokywin/react-boilerplate.git"
+  },
   "devDependencies": {
     "babel-core": "^6.7.7",
     "babel-loader": "^6.2.4",
